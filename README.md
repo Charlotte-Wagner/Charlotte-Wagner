@@ -13,7 +13,7 @@ A web app that turns a photo into a painting study kit for painters at any skill
 - Made real paint the key decision: the palette matches colors to Williamsburg's measured oil paint values, so it names tubes a painter can actually buy.
 - One photo in, a full kit out: 3- and 5-level value studies, a matched palette, a four-stage build order, and a written guide generated with the Claude API.
 
-**[PROVE Lab website redesign concept](https://prove-lab-site.charlotte-m-wagner.workers.dev)**
+**[PROVE Lab website redesign concept](https://github.com/Charlotte-Wagner/prove-lab-redesign-concept)** · [see the live concept](https://prove-lab-site.charlotte-m-wagner.workers.dev)
 A landing-page concept I made on my own as part of my application to join PROVE Lab, a student-led Cal Poly nonprofit building solar and autonomous prototype vehicles. It is a concept, not the club's official site.
 - Checked every stat and claim against what the club publishes: fixed 2 contradictions, removed 6 unsourced claims, and confirmed the remaining figures with club leadership.
 - Designed the page around one action: cut a competing hero button so Sponsor is the only primary action.
