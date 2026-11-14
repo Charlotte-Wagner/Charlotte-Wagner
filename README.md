@@ -2,7 +2,7 @@
 
 Economics student (Information Systems and Analytics concentration) at Cal Poly San Luis Obispo, expected May 2028. I'm looking for **product internships for summer 2027** (product management, product marketing, growth), available from May 2027.
 
-I've painted since I was five, and I bring that to product work: talk to the people who will use it, follow how they already work, and give each screen one clear job.
+I've painted my entire life, and I bring that to product work: talk to the people who will use it, follow how they already work, and give each screen one clear job.
 
 ### Projects
 
